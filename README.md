@@ -37,8 +37,11 @@ The Bitcoin Price Tracker project is a real-time Bitcoin price monitoring system
 * Watch the RGB LED for visual indications of the price trend.
 
   ### Schematic
-<img src="https://imgur.com/a/asfxHEi" height="50%" width="50%"/>
-
+![Screenshot 2023-12-11 180954](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/f1d06559-8aa6-4aae-950d-775bd07b86f5)
 
   ### Code
+  ![Screenshot 2023-12-11 200806](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/31e7cadb-13cc-45fd-bc46-8ee66858e05f)
   
+![Screenshot 2023-12-11 200829](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/5f249c98-d6f8-49a3-83de-e1fd4f3c9f54)
+
+![Screenshot 2023-12-11 200851](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/cc794263-47ee-42bf-9369-243a570d099b)
