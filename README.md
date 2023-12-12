@@ -16,7 +16,7 @@ The Bitcoin Price Tracker project is a real-time Bitcoin price monitoring system
 * HTTPClient Library
 * ArduinoJson Library
 
-  ### Setup and Configuration
+### Setup and Configuration
 1. ESP32 Setup: Ensure that the ESP32 board manager is installed in the Arduino IDE.
 2. Libraries: Install the LiquidCrystal_I2C, WiFi, HTTPClient, and ArduinoJson libraries.
 3. Circuit Connection: Connect the LCD 1602 display and RGB LED to the ESP32 according to the schematic provided.
@@ -36,11 +36,11 @@ The Bitcoin Price Tracker project is a real-time Bitcoin price monitoring system
 * Observe the price updates on the LCD screen every 10 seconds.
 * Watch the RGB LED for visual indications of the price trend.
 
-  ### Schematic
+### Schematic
 ![Screenshot 2023-12-11 180954](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/f1d06559-8aa6-4aae-950d-775bd07b86f5)
 
-  ### Code
-  ![Screenshot 2023-12-11 200806](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/31e7cadb-13cc-45fd-bc46-8ee66858e05f)
+### Code
+![Screenshot 2023-12-11 200806](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/31e7cadb-13cc-45fd-bc46-8ee66858e05f)
   
 ![Screenshot 2023-12-11 200829](https://github.com/hasanm02/ESP32-Bitcoin-Ticker/assets/133940432/5f249c98-d6f8-49a3-83de-e1fd4f3c9f54)
 
